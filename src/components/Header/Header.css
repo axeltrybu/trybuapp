@@ -1,0 +1,16 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+}
+.btn {
+    border-radius: 0;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+}
+a, input {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+}
+.navbar {
+    padding: 2px 20px;
+}
