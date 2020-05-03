@@ -8,7 +8,7 @@ let wrapped;
 
 beforeEach(() => {
     const initialState = {
-        comments: ['Commment 1', 'Comment2']
+        comments: ['Comment 1', 'Comment 2']
     }
     wrapped = mount(
         <Root initialState={initialState}>
@@ -22,6 +22,6 @@ it("Creates an li from new comment", () => {
 });
 
 it("Shows the text of each comment", () => {
-    expect(wrapped.render().text()).toContain("Commment 1");
-    expect(wrapped.render().text()).toContain("Comment2");
+    expect(wrapped.render().text()).toContain("Comment 1");
+    expect(wrapped.render().text()).toContain("Comment 2");
 })
