@@ -14,7 +14,7 @@ class CommentBox extends Component {
     }
     shouldNavigateAway() {
         if (!this.props.auth) {
-            console.log('I need ti live...')
+            this.props.history.push('/');
         }
     }
     handleChange = event => {
