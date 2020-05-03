@@ -18,5 +18,10 @@ beforeEach(() => {
 });
 
 it("Creates an li from new comment", () => {
-    console.log(wrapped.find('li').length);
+    expect(wrapped.find('li').length).toEqual(2)
+});
+
+it("Shows the text of each comment", () => {
+    expect(wrapped.render().text()).toContain("Commment 1");
+    expect(wrapped.render().text()).toContain("Comment2");
 })
