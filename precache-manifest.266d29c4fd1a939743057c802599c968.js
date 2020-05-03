@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f17c3c015ff4879bf372cf6c0736572f",
+    "revision": "f540b8f403792e849a897ec64ee6500b",
     "url": "/trybuapp/index.html"
   },
   {
-    "revision": "7b2000ca044d3f9af7ea",
+    "revision": "140b0f4959fbc5371dac",
     "url": "/trybuapp/static/css/main.d914a221.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trybuapp/static/js/2.a26e074d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b2000ca044d3f9af7ea",
-    "url": "/trybuapp/static/js/main.69a914bf.chunk.js"
+    "revision": "140b0f4959fbc5371dac",
+    "url": "/trybuapp/static/js/main.8c48ee25.chunk.js"
   },
   {
     "revision": "6176891105f40a799da2",
