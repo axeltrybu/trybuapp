@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f540b8f403792e849a897ec64ee6500b",
+    "revision": "e53e9becce3c71113ba44d957c89bd85",
     "url": "/trybuapp/index.html"
   },
   {
-    "revision": "140b0f4959fbc5371dac",
+    "revision": "41ee2cacde92671c1352",
     "url": "/trybuapp/static/css/main.d914a221.chunk.css"
   },
   {
-    "revision": "ad46117710f6a8afff05",
-    "url": "/trybuapp/static/js/2.a26e074d.chunk.js"
+    "revision": "2d65f9524df114366add",
+    "url": "/trybuapp/static/js/2.2f2dff85.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/trybuapp/static/js/2.a26e074d.chunk.js.LICENSE.txt"
+    "url": "/trybuapp/static/js/2.2f2dff85.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "140b0f4959fbc5371dac",
-    "url": "/trybuapp/static/js/main.8c48ee25.chunk.js"
+    "revision": "41ee2cacde92671c1352",
+    "url": "/trybuapp/static/js/main.432fc52e.chunk.js"
   },
   {
     "revision": "6176891105f40a799da2",
