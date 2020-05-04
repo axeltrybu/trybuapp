@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/trybuapp/static/css/main.d914a221.chunk.css",
-    "main.js": "/trybuapp/static/js/main.432fc52e.chunk.js",
-    "main.js.map": "/trybuapp/static/js/main.432fc52e.chunk.js.map",
+    "main.js": "/trybuapp/static/js/main.057c9621.chunk.js",
+    "main.js.map": "/trybuapp/static/js/main.057c9621.chunk.js.map",
     "runtime-main.js": "/trybuapp/static/js/runtime-main.3087850e.js",
     "runtime-main.js.map": "/trybuapp/static/js/runtime-main.3087850e.js.map",
-    "static/js/2.2f2dff85.chunk.js": "/trybuapp/static/js/2.2f2dff85.chunk.js",
-    "static/js/2.2f2dff85.chunk.js.map": "/trybuapp/static/js/2.2f2dff85.chunk.js.map",
+    "static/js/2.0c80ba5e.chunk.js": "/trybuapp/static/js/2.0c80ba5e.chunk.js",
+    "static/js/2.0c80ba5e.chunk.js.map": "/trybuapp/static/js/2.0c80ba5e.chunk.js.map",
     "index.html": "/trybuapp/index.html",
-    "precache-manifest.94950fee1241ea1d25543a095c94dbb3.js": "/trybuapp/precache-manifest.94950fee1241ea1d25543a095c94dbb3.js",
+    "precache-manifest.af535c249ce88615d8a6c771ac825993.js": "/trybuapp/precache-manifest.af535c249ce88615d8a6c771ac825993.js",
     "service-worker.js": "/trybuapp/service-worker.js",
     "static/css/main.d914a221.chunk.css.map": "/trybuapp/static/css/main.d914a221.chunk.css.map",
-    "static/js/2.2f2dff85.chunk.js.LICENSE.txt": "/trybuapp/static/js/2.2f2dff85.chunk.js.LICENSE.txt",
+    "static/js/2.0c80ba5e.chunk.js.LICENSE.txt": "/trybuapp/static/js/2.0c80ba5e.chunk.js.LICENSE.txt",
     "static/media/logo.4f5095b4.svg": "/trybuapp/static/media/logo.4f5095b4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3087850e.js",
-    "static/js/2.2f2dff85.chunk.js",
+    "static/js/2.0c80ba5e.chunk.js",
     "static/css/main.d914a221.chunk.css",
-    "static/js/main.432fc52e.chunk.js"
+    "static/js/main.057c9621.chunk.js"
   ]
 }
